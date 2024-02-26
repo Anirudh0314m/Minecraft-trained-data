@@ -1,0 +1,48 @@
+import pandas as pd 
+import numpy as np 
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+
+# create your own data set as per your wish
+
+
+data=pd.read_csv('MINECRAFT.csv')
+print(data)  
+
+
+output:-
+
+   YEARS TOTAL DOWNLOADS TOTAL REVENUE BY YEAR PC  \
+0    2009            500k                    150M$   
+1    2010            560k                    189M$   
+2    2011              1m                    178M$   
+3    2012              5m                    211M$   
+4    2013             11m                    326M$   
+5    2014             20m                    165M$   
+6    2015             50m                    350M$   
+7    2016            106m                    420M$   
+8    2017            144m                    370M$   
+9    2018            154m                    500M$   
+10   2019            176m                    375M$   
+11   2020            200m                    415M$   
+12   2021            170m                    380M$   
+13   2022            270m                    267M$   
+14   2023            258m                    234M$   
+
+   TOTAL REVENUE BY YEAR MOBILE ACTIVE PLAYERS  Unnamed: 5  
+0                           0M$           350k         NaN  
+1                           0M$           398k         NaN  
+2                           0M$           786k         NaN  
+3                          21M$             2M         NaN  
+4                          33M$             7M         NaN  
+5                          45M$            16M         NaN  
+6                          55M$            43M         NaN  
+7                          72M$            40M         NaN  
+8                          77M$            55M         NaN  
+9                          88M$            75M         NaN  
+10                        111M$            91M         NaN  
+11                        142M$           131M         NaN  
+12                        161M$            93M         NaN  
+13                        175M$            78M         NaN  
+14                        181M$            83M         NaN  
