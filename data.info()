@@ -1,0 +1,12 @@
+
+data.info()
+
+
+ #   Column                        Non-Null Count  Dtype  
+---  ------                        --------------  -----  
+ 0   YEARS                         15 non-null     int64  
+ 1   TOTAL DOWNLOADS               15 non-null     object 
+ 2   TOTAL REVENUE BY YEAR PC      15 non-null     object 
+ 3   TOTAL REVENUE BY YEAR MOBILE  15 non-null     object 
+ 4   ACTIVE PLAYERS                15 non-null     object 
+ 5   Unnamed: 5                    0 non-null      float64
