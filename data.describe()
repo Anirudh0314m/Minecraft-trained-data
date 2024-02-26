@@ -1,0 +1,11 @@
+data.describe()
+
+           YEARS	     Unnamed: 5
+count	   15.0000000	    0.0
+mean   	2016.000000    	NaN
+std	     4.472136      	NaN
+min	    2009.000000	    NaN
+25%	    2012.500000     NaN
+50%	    2016.000000	    NaN
+75%	    2019.500000     NaN
+max	    2023.000000     NaN
